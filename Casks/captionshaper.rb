@@ -1,6 +1,6 @@
 cask "captionshaper" do
-  version "1.1.1"
-  sha256 "943460e90399344afa84d814eb65419aa628495783f47bab8d18abbae07e33ba"
+  version "1.1.2"
+  sha256 "a5157466b2c9e95e3a68ddf4f0e88006734d1c77564e6dcec08c247c37d612f0"
 
   url "https://github.com/hollowbit-dev/captionshaper/releases/download/v#{version}/Captionshaper-#{version}-mac-arm64.dmg"
   name "Captionshaper"

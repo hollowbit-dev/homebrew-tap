@@ -1,9 +1,9 @@
 cask "diskshaper" do
   arch arm: "arm64", intel: "x64"
 
-  version "1.0.1"
-  sha256 arm:   "9530b82431e4e60f2d3e10ed401043740528e0251f4fb9390ebcf0025b3c7fbd",
-         intel: "aa9249293acd3db2eaf0919540e9f88c737a5caae3e4190cc1c809406fd0f34f"
+  version "1.0.2"
+  sha256 arm:   "e787f08c7aaf9a65ba47e35292e9a1a2e8d651d7be1cfc9148bb7b8bfcedc669",
+         intel: "35527ab482d43c52c09c0daf76a1126696ade848e32a5ff4231c77bc50253972"
 
   url "https://github.com/hollowbit-dev/diskshaper/releases/download/v#{version}/Diskshaper-#{version}-mac-#{arch}.dmg"
   name "Diskshaper"
