@@ -13,7 +13,7 @@ cask "captionshaper" do
   end
 
   depends_on arch: :arm64
-  depends_on macos: ">= :monterey"
+  depends_on macos: :monterey
 
   app "Captionshaper.app"
 
