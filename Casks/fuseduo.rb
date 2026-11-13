@@ -1,14 +1,14 @@
 cask "fuseduo" do
   arch arm: "arm64", intel: "x64"
 
-  version "1.0.0"
-  sha256 arm:   "0489f554d5b5a6f259f98159f31c935a14d1354b90095aff7d6832d20f626737",
-         intel: "1064b397da68cff42ed6222ef2e6dd19bdeaefd5fd01b7441277440e385f3d94"
+  version "1.1.0"
+  sha256 arm:   "db1e45f336910d54fb9550b512cfdef5b6206229994632e4991ef5d0e71dcfc0",
+         intel: "5122781a4986729b9259931e591cfacf4e6c5a5b219eac8daf3d515870c1340f"
 
   url "https://github.com/hollowbit-dev/fuseduo/releases/download/v#{version}/Fuseduo-#{version}-mac-#{arch}.dmg"
   name "Fuseduo"
   desc "Drop one app onto another and Claude builds an automation for them"
-  homepage "https://hollowbit.dev/fuseduo/"
+  homepage "https://fuseduo.com/"
 
   livecheck do
     url :url
