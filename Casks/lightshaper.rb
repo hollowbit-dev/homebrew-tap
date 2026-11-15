@@ -1,9 +1,9 @@
 cask "lightshaper" do
   arch arm: "arm64", intel: "x64"
 
-  version "1.0.0"
-  sha256 arm:   "1481730ba5da4d752377f0fa28248224ac38a0e369fb93f0c3b395b679f27bde",
-         intel: "1bef43f9c59d9b84602a12b93dfea2392337ce918bdfcaa7bdb9623f634023df"
+  version "1.1.0"
+  sha256 arm:   "3b3953d2dbd8cfb666abb3b1b952b01caed7fcceba4662a152400755d780695e",
+         intel: "ac748b9da224b7cc15a8aa090b4efbd68d96fd9e354248732458506648f47809"
 
   url "https://github.com/hollowbit-dev/lightshaper/releases/download/v#{version}/Lightshaper-#{version}-mac-#{arch}.dmg"
   name "Lightshaper"
