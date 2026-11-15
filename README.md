@@ -10,6 +10,7 @@ brew install --cask hollowbit-dev/tap/captionshaper  # offline auto subtitles (A
 brew install --cask hollowbit-dev/tap/diskshaper     # storage cleaner, everything to the Trash
 brew install --cask hollowbit-dev/tap/writeshaper    # private writing assistant, works in any app
 brew install --cask hollowbit-dev/tap/startshaper    # see what starts at login, switch it off safely
+brew install --cask hollowbit-dev/tap/lightshaper    # photo editor for RAW and JPEG: sliders, masks, looks
 brew install --cask hollowbit-dev/tap/fuseduo        # drop one app on another, get an automation (uses Claude)
 ```
 
@@ -20,6 +21,7 @@ brew install --cask hollowbit-dev/tap/fuseduo        # drop one app on another, 
 | Diskshaper | See what's eating your storage and clean only what's safe. | [hollowbit.dev/diskshaper](https://hollowbit.dev/diskshaper/) |
 | Writeshaper | Fix and polish your writing in any app; the writing model runs on your Mac. | [hollowbit.dev/writeshaper](https://hollowbit.dev/writeshaper/) |
 | Startshaper | Why is my Mac slow? See what starts by itself, in plain words, and switch off what you don't need. | [hollowbit.dev/startshaper](https://hollowbit.dev/startshaper/) |
+| Lightshaper | Edit photos and camera RAW files with sliders, masks and looks, and batch-export a whole folder. Opens Lightroom presets. | [hollowbit.dev/lightshaper](https://hollowbit.dev/lightshaper/) |
 | Fuseduo | Drop one app onto another and Claude builds an automation you read and approve. Uses your Claude Code plan or an API key. | [hollowbit.dev/fuseduo](https://hollowbit.dev/fuseduo/) |
 
 The apps are not yet signed by Apple. The first time you open one, right-click it in Applications and choose Open.
